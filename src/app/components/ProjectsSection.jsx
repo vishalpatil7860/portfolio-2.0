@@ -15,6 +15,15 @@ const projectsData = [
     previewUrl: "/",
   },
   {
+    id: 10,
+    title: "Movie Recommendation System using Machine Leaarning",
+    description: "Developed a U-Net-based deep learning model for Brain Tumor Segmentation from MRI scans, achieving a mean F1 score of 0.72958 across test images. This project contributes to medical image analysis and assists in accurate diagnosis and treatment planning for brain tumor patients.",
+    image: "/images/projects/10.png",
+    tag: ["All", "Machine Learning"],
+    gitUrl: "https://github.com/vishalpatil7860/Movie-Recommendation-System",
+    previewUrl: "/",
+  },
+  {
     id: 2,
     title: "Retail Data-Driven Product Recommendation Engine",
     description: "Led the creation of a high-accuracy (98.34%) content-based recommendation system for e-commerce, leveraging Python, TensorFlow, and Keras, with advanced data preprocessing and serialization via scikit-learn and joblib, culminating in a robust Flask web application with an intuitive UI for superior product recommendation.",

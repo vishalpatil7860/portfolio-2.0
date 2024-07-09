@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 10,
     title: "Movie Recommendation System using Machine Leaarning",
-    description: "Developed a U-Net-based deep learning model for Brain Tumor Segmentation from MRI scans, achieving a mean F1 score of 0.72958 across test images. This project contributes to medical image analysis and assists in accurate diagnosis and treatment planning for brain tumor patients.",
+    description: "This project implements a movie recommendation system using a dataset of movie metadata. It processes movie details to generate recommendations based on cosine similarity and provides an interactive UI with Streamlit for selecting movies and displaying recommendations.",
     image: "/images/projects/10.png",
     tag: ["All", "Machine Learning"],
     gitUrl: "https://github.com/vishalpatil7860/Movie-Recommendation-System",

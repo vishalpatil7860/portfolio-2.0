@@ -78,7 +78,7 @@ const certifications = [
 
 const CertificationSection = () => {
     return (
-      <section id="certifications" className="py-12 px-4 xl:px-16 bg-[#181818] text-white">
+      <section id="certifications" className="py-12 px-4 xl:px-16 bg-[#181818] text-white mt-7">
         <h2 className="text-4xl font-bold text-center mb-12">Licenses & Certifications</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {certifications.map((certification, index) => (

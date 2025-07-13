@@ -4,11 +4,11 @@ import { FaBriefcase, FaGraduationCap } from "react-icons/fa";
 
 const experiences = [
   {
-    title: "Founder",
-    company: "PrismGen AI",
+    title: "Senior Data Engineer",
+    company: "Infosys Limited",
     description:
-      "PrismGen AI stands as a pioneer in the field of artificial intelligence, offering a versatile one-stop platform for a multitude of generative AI services.",
-    duration: "2024 - Present",
+      "Working as a Senior Data Engineer, I am responsible for designing and implementing data pipelines, optimizing data workflows, and ensuring data quality across various projects. My role involves collaborating with cross-functional teams to deliver scalable data solutions.",
+    duration: "2025 - Present",
     icon: <FaBriefcase />,
   },
   {
@@ -31,7 +31,7 @@ const experiences = [
     title: "Programmer Analyst",
     company: "Pune, India",
     description:
-      "I'm now a full-stack developer working as a Programmer Analyst. My stack includes Angular JS, JAVA, SQL.",
+      "I worked as a Programmer Analyst where I was responsible for utilizing SQL to optimize notification systems, enhancing data retrieval efficiency, and improving overall system performance. This role involved analyzing existing SQL queries, identifying bottlenecks, and implementing solutions to streamline processes.",
     duration: "2020 - 2022",
     icon: <FaBriefcase />,
   },

@@ -12,10 +12,10 @@ const AboutSection = () => {
         <div className="md:w-1/2 mt-4 md:mt-0 text-left md:ml-8">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg mb-4">
-            I am Vishal Patil, Founder of PrismGen AI and a Data Science Graduate from the University of Michigan-Dearborn. With expertise in data analytics, machine learning, and business intelligence, I focus on AI-driven content creation. Proficient in Python, R, SQL, Power BI, and Tableau, I excel at turning complex datasets into strategic insights.
+            I am a Senior Data Engineer with a passion for leveraging data to drive business insights and innovation. With over 4 years of experience in the tech industry, I have honed my skills in data engineering and data science, working with various tools and technologies to build scalable data solutions.
           </p>
           <p className="text-base lg:text-lg mb-4">
-            At PrismGen AI, I lead efforts in predictive modeling, algorithm optimization, and scalable AI solutions. We transform content creation using generative AI for text, visuals, and code, blending technology with creativity.
+            At Infosys Limitd, I lead the Data Platform team, where I design and implement data pipelines, optimize workflows, and ensure data quality. My academic background includes a Master's in Data Science from the University of Michigan-Dearborn, where I focused on advanced topics like Deep Learning and Natural Language Processing.
           </p>
           <p className="text-base lg:text-lg mb-4">
             Driven by data-driven problem-solving, I am passionate about innovation in the tech industry. In my free time, I enjoy video games, movies, table tennis, and learning about Large Language Models.
@@ -37,11 +37,11 @@ const AboutSection = () => {
           <div className="flex flex-wrap justify-left gap-2">
             <span className="bg-gray-700 text-white px-3 py-1 rounded">Power BI</span>
             <span className="bg-gray-700 text-white px-3 py-1 rounded">Tableau</span>
-            <span className="bg-gray-700 text-white px-3 py-1 rounded">R-Studio</span>
+            <span className="bg-gray-700 text-white px-3 py-1 rounded">Snowflake</span>
             <span className="bg-gray-700 text-white px-3 py-1 rounded">Microsoft Excel</span>
             <span className="bg-gray-700 text-white px-3 py-1 rounded">Git</span>
             <span className="bg-gray-700 text-white px-3 py-1 rounded">Jira</span>
-            <span className="bg-gray-700 text-white px-3 py-1 rounded">Azure Data Studio</span>
+            <span className="bg-gray-700 text-white px-3 py-1 rounded">DBT</span>
             <span className="bg-gray-700 text-white px-3 py-1 rounded">Jupyter Notebook</span>
           </div>
         </div>

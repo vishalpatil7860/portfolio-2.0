@@ -26,7 +26,7 @@ const achievementsList = [
   },
   {
     metric: "Experience(years)",
-    value: "3",
+    value: "4",
     postfix: "+"
   },
 ];

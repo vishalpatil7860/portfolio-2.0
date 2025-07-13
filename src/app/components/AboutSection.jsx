@@ -15,7 +15,7 @@ const AboutSection = () => {
             I am a Senior Data Engineer with a passion for leveraging data to drive business insights and innovation. With over 4 years of experience in the tech industry, I have honed my skills in data engineering and data science, working with various tools and technologies to build scalable data solutions.
           </p>
           <p className="text-base lg:text-lg mb-4">
-            At Infosys Limitd, I lead the Data Platform team, where I design and implement data pipelines, optimize workflows, and ensure data quality. My academic background includes a Master's in Data Science from the University of Michigan-Dearborn, where I focused on advanced topics like Deep Learning and Natural Language Processing.
+            At Infosys Limitd, I lead the Data Platform team, where I design and implement data pipelines, optimize workflows, and ensure data quality. My academic background includes a Master&apos;s in Data Science from the University of Michigan-Dearborn, where I focused on advanced topics like Deep Learning and Natural Language Processing.
           </p>
           <p className="text-base lg:text-lg mb-4">
             Driven by data-driven problem-solving, I am passionate about innovation in the tech industry. In my free time, I enjoy video games, movies, table tennis, and learning about Large Language Models.
